@@ -28,3 +28,11 @@
 <li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"> <img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
 <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
 </div>
+<br>
+<hr/>
+
+<h1>🔥 Some stats:</h1>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
