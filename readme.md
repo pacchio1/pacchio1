@@ -2,13 +2,13 @@
   <img src="img/giphy.gif" width="200"/>
 </div>
 <div id="badges" style="justify-content:center;align-items:center;"align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/marco-pacchiotti-62182423b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
@@ -31,7 +31,9 @@
 <br>
 <hr/>
 
-<h1>🔥 Some stats:</h1>
+<h1>🔥 Some stats 🔥:</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=000000)
 
