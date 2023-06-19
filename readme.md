@@ -11,9 +11,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-
-  <h1>
-  </h1>
+  <img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
     👋 Hi, I’m @Pacchio1.
@@ -24,7 +22,5 @@
         ⛓️Aditional links:
     🤖 Cyber Security ->https://tryhackme.com/p/Monkey420
     💼 Replit-> https://replit.com/@marcopacchiotti
-
-
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe">
