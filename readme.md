@@ -35,6 +35,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=ee00ee)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
