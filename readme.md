@@ -37,9 +37,9 @@
 ![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=donut&bg_color=2B213A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=donut&bg_color=141321)
 
 <hr>
 <h2></h2>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=2B213A)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
