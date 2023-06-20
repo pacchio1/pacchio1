@@ -35,7 +35,8 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=tokyonight)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=1a0033)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=000033)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
