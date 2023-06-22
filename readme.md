@@ -42,4 +42,4 @@
 <!--<hr>
 <h1>Consistency</h1>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)-->
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
