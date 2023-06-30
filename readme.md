@@ -19,13 +19,9 @@
 
 
  
-<div align="center">
+<div id="about" align="center">
  <h2> 😀 About me:</h2>
- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"/>
-</div>
-
- 
-<li>👋 Hi, I’m @Pacchio1.<br/></li>
+ <li>👋 Hi, I’m @Pacchio1.<br/></li>
 <li>👀 I’m interested in databases.<br/></li>
 <li>📚 I’m currently learning Sql Server and .NET.<br/></li>
 <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>
@@ -35,6 +31,11 @@
 <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
 </div>
 <br>
+ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"/>
+</div>
+
+ 
+
 <hr/>
 
 <h1>🔥 Some stats 🔥:</h1>
