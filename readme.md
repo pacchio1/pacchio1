@@ -35,9 +35,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical)
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
-
 <hr>
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+</div>
 
 <!--<hr>
 <h1>Consistency</h1>
