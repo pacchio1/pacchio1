@@ -23,7 +23,7 @@
  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"/>
 </div>
  
- # About me:
+ <h2> About me:</h2>
  
 <li>👋 Hi, I’m @Pacchio1.<br/></li>
 <li>👀 I’m interested in databases.<br/></li>
