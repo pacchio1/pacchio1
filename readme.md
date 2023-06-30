@@ -43,6 +43,8 @@
 <h1>Consistency</h1>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
-![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)-->
+![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
+
+-->
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
