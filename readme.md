@@ -37,7 +37,7 @@
 
 <hr>
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height="150%" />
+ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="150%"/>
 </div>
 
 <!--<hr>
