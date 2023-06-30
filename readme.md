@@ -20,7 +20,7 @@
 
  
 <div align="center">
- <h2> About me:</h2>
+ <h2> 😀 About me:</h2>
  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"/>
 </div>
 
