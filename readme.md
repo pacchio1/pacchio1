@@ -16,33 +16,27 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt=""/>
 </div>
-
-
- 
+<br><br><br>
 <div id="about">
  <h2> 😀 About me:</h2>
  <li>👋 Hi, I’m @Pacchio1.<br/></li>
-<li>👀 I’m interested in databases.<br/></li>
-<li>📚 I’m currently learning Sql Server and .NET.<br/></li>
-<li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>
-<li>📫 How to reach me: mail ---> marco.pacchiotti.2002@gmail.com<br/></li>
-⛓️Aditional links:<br/>
-<li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"> <img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
-<li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
+ <li>👀 I’m interested in databases.<br/></li>
+ <li>📚 I’m currently learning Sql Server and .NET.<br/></li>
+ <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>
+ <li>📫 How to reach me: mail ---> marco.pacchiotti.2002@gmail.com<br/></li>
+ ⛓️Aditional links:<br/>
+ <li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"> <img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
+ <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
 </div>
-<br>
- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"  align="center"/>
-</div>
-
- 
-
+<br><br><br>
 <hr/>
 
 <h1>🔥 Some stats 🔥:</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical)
-
-
+<div id="end" align="center">
+ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"  align="center"/>
+</div>
 
 <!--<hr>
 <h1>Consistency</h1>
