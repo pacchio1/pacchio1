@@ -37,7 +37,7 @@
 
 <hr>
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height="150%" />
 </div>
 
 <!--<hr>
