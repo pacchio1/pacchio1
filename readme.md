@@ -19,11 +19,12 @@
 <hr>
 <div>
 <hr>
-<div id="header" align="center">
+ 
+<div align="center">
+ <h2> About me:</h2>
  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"/>
 </div>
- 
- <h2> About me:</h2>
+
  
 <li>👋 Hi, I’m @Pacchio1.<br/></li>
 <li>👀 I’m interested in databases.<br/></li>
