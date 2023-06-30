@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="img/giphy.gif" width="200"/>
- [ https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47bk4jw3omeh8gd8slcarkh3je4xkd1dbd5prllwd4&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47bk4jw3omeh8gd8slcarkh3je4xkd1dbd5prllwd4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+ <img src=" https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47bk4jw3omeh8gd8slcarkh3je4xkd1dbd5prllwd4&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47bk4jw3omeh8gd8slcarkh3je4xkd1dbd5prllwd4&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 </div>
 <div id="badges" style="justify-content:center;align-items:center;"align="center">
   <a href="https://www.linkedin.com/in/marco-pacchiotti-62182423b/">
