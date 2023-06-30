@@ -16,8 +16,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt=""/>
 </div>
-<hr>
-<div>
+
 
  
 <div align="center">
