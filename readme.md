@@ -18,7 +18,13 @@
 </div>
 <hr>
 <div>
-
+<hr>
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"/>
+</div>
+ 
+ # About me:
+ 
 <li>👋 Hi, I’m @Pacchio1.<br/></li>
 <li>👀 I’m interested in databases.<br/></li>
 <li>📚 I’m currently learning Sql Server and .NET.<br/></li>
@@ -35,10 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical)
 
-<hr>
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"/>
-</div>
+
 
 <!--<hr>
 <h1>Consistency</h1>
