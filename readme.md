@@ -18,7 +18,7 @@
 </div>
 <hr>
 <div>
-<hr>
+
  
 <div align="center">
  <h2> About me:</h2>
