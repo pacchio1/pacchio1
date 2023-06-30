@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/marco-pacchiotti-62182423b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="href="mailto:marco.pacchiotti.2002@gmail.com"">
+  <a href="mailto:marco.pacchiotti.2002@gmail.com"">
    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
   <a href="https://hub.docker.com/u/pacchio1">
