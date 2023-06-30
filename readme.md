@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="img/giphy.gif" width="200"/>
- <img src=" https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
+ <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"/>
 </div>
 <div id="badges" style="justify-content:center;align-items:center;"align="center">
   <a href="https://www.linkedin.com/in/marco-pacchiotti-62182423b/">
