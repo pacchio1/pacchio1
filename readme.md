@@ -33,18 +33,18 @@
 
 <h1>🔥 Some stats 🔥:</h1>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=tokyonight)-->
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical)
+
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+
+<hr>
 
 <!--<hr>
 <h1>Consistency</h1>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=tokyonight)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
 ![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=vision-friendly-dark)]
 -->
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+
