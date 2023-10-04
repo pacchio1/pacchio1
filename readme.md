@@ -27,8 +27,9 @@
  ⛓️Aditional links:<br/>
  <li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
- <li>💪 leetcode ->![](https://leetcard.jacoblin.cool/pacchio?font=Dancing_Script) https://leetcode.com/pacchio/</li>
+ 
 </div>
+ 💪 leetcode ->![](https://leetcard.jacoblin.cool/pacchio?border=0&radius=20)
 <br><br><br>
 <hr/>
 
