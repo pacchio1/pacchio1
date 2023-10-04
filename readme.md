@@ -27,12 +27,9 @@
  ⛓️Aditional links:<br/>
  <li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
-
- <li>
   
-  💪 leetcode -> ![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark&font=Alumni%20Sans&ext=heatmap)
+ • 💪 leetcode -> ![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark)
   
- <li>
  
 </div>
  
@@ -44,6 +41,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical)
+
 <div id="end" align="center">
  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"  align="center"/>
 </div>
