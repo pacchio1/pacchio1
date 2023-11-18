@@ -21,7 +21,7 @@
  <h2> 😀 About me:</h2>
  <li>👋 Hi, I’m @Pacchio1.<br/></li>
  <li>👀 I’m interested in databases.<br/></li>
- <li>📚 I’m currently learning RUST, Python and NoSql .<br/></li>
+ <li>📚 I’m currently learning NoSql .<br/></li>
  <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>
  <li>📫 How to reach me: mail ---> marco.pacchiotti.2002@gmail.com<br/></li>
  ⛓️Aditional links:<br/>
