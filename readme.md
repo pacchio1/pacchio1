@@ -35,7 +35,7 @@
  
 <br><br><br>
 <hr/>
-
+<!--
 <h1>🔥 Some stats 🔥:</h1>
 
 
@@ -46,7 +46,7 @@
  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"  align="center"/>
 </div>
 
-<!--<hr>
+<hr>
 
 <h1>Consistency</h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=tokyonight)
