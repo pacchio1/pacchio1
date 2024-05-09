@@ -34,8 +34,9 @@
 </div>
 
 <br><br><br>
-<hr/>
 <!--
+<hr/>
+
 <h1>🔥 Some stats 🔥:</h1>
 
 
