@@ -23,10 +23,10 @@
  <li>👀 I’m interested in databases and full stack developement.<br/></li>
  <li>📚 I’m currently learning springboot and react.<br/></li>
   <!-- <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>  -->
- <li>📫 How to reach me: mail -> marco.pacchiotti.2002@gmail.com <br/></li>
- <a href="mailto:marco.pacchiotti.2002@gmail.com"">
+ <li>📫 How to reach me: mail -> marco.pacchiotti.2002@gmail.com <br/><a href="mailto:marco.pacchiotti.2002@gmail.com"">
    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>
+  </a></li>
+ 
  ⛓️Aditional links:<br/>
  <li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
