@@ -36,10 +36,14 @@
 <hr/>
 <div align="center">
 <h1>🔥 Some stats 🔥:</h1>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical)
+
 <br/>
 <h2>Consistency</h2>
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
+
 <br/>
 ![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
 
