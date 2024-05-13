@@ -20,15 +20,17 @@
 <div id="about">
  <h2> 😀 About me:</h2>
  <li>👋 Hi, I’m @Pacchio1.<br/></li>
- <li>👀 I’m interested in databases.<br/></li>
- <li>📚 I’m currently learning NoSql .<br/></li>
- <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>
- <li>📫 How to reach me: mail ---> marco.pacchiotti.2002@gmail.com<br/></li>
+ <li>👀 I’m interested in databases and full stack developement.<br/></li>
+ <li>📚 I’m currently learning springboot and react.<br/></li>
+  <!-- <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>  -->
+ <li>📫 How to reach me: mail -> marco.pacchiotti.2002@gmail.com <br/></li>
+ <a href="mailto:marco.pacchiotti.2002@gmail.com"">
+   <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
  ⛓️Aditional links:<br/>
  <li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
- <!-- • 💪 leetcode -> <a href="https://leetcode.com/pacchio/">![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark)</a>
-  -->
+ <!-- • 💪 leetcode -> <a href="https://leetcode.com/pacchio/">![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark)</a>-->
 </div>
 
 <br><br><br>
