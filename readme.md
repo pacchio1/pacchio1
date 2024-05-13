@@ -26,7 +26,7 @@
  <li>📫 How to reach me: mail -> marco.pacchiotti.2002@gmail.com <br/><a href="mailto:marco.pacchiotti.2002@gmail.com"">
    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a></li>
- 
+ <br>
  ⛓️Aditional links:<br/>
  <li>🤖 Cyber Security -><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"></a></li><br/>
  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>
