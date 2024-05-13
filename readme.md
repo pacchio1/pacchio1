@@ -36,7 +36,7 @@
 <br><br><br>
 
 <hr/>
-<div style="text-align:center">
+<div align="center">
 <h1>🔥 Some stats 🔥:</h1>
 
 
@@ -54,6 +54,7 @@
 <h1>Consistency</h1>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
+<br/>
 ![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
 
 
