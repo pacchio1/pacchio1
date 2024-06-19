@@ -28,7 +28,7 @@
   </a></li>
  <br>
  ⛓️Aditional links:<br/>
- <li>🤖 Cyber Security -> <li><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"> </a></li><a>https://play.picoctf.org/users/pacchio1</a> </li><br/>
+ 🤖 Cyber Security -> <li><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png" alt="TryHackMe"> </a></li><a>https://play.picoctf.org/users/pacchio1</a><br/>
 <!--  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>  -->
  <!-- • 💪 leetcode -> <a href="https://leetcode.com/pacchio/">![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark)</a>-->
 </div>
