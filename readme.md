@@ -7,7 +7,7 @@
       alt="LinkedIn Badge" />
   </a>
   <a href="mailto:marco.pacchiotti.2002@gmail.com"">
-   <img src=" https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
+   <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
     alt="gmail Badge" />
   </a>
   <a href="https://hub.docker.com/u/pacchio1">
@@ -31,14 +31,14 @@
       alt="gmail Badge" />
     </a></li>
   <br>
-  ⛓️Aditional links:<br />
+  <!--⛓️Aditional links:<br />
   🤖 Cyber Security ->
   <ol>
     <li><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png"
           alt="TryHackMe"></a>
     <li><a>https://play.picoctf.org/users/pacchio1</a><br />
     </li>
-  </ol>
+  </ol>-->
     <!--  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>  -->
     <!-- • 💪 leetcode -> <a href="https://leetcode.com/pacchio/">![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark)</a>-->
 </div>
