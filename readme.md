@@ -47,8 +47,8 @@
 
 <hr />
 <div align="center">
-  <h1>🔥 Some stats 🔥:</h1>
   <!--
+  <h1>🔥 Some stats 🔥:</h1>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical) <br /> 
 
   
@@ -56,11 +56,11 @@
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
 
-  <br />-->
+  <br />
 
   ![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
-
   <hr>
+  -->
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"
     align="center" />
 </div>
