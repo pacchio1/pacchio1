@@ -1,66 +1,45 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Marco+Pacchiotti;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Cloud+%26+Microservices" alt="Typing SVG" />
 </div>
-<div id="badges" style="justify-content:center;align-items:center;" align="center">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/marco-pacchiotti-62182423b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
   </a>
-  <a href="mailto:marco.pacchiotti.2002@gmail.com"">
-   <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="gmail Badge" />
+  <a href="mailto:marco.pacchiotti.2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=39FF14" />
   </a>
   <a href="https://hub.docker.com/u/pacchio1">
-    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker Badge" />
+    <img src="https://img.shields.io/badge/DockerHub-0a0a0a?style=for-the-badge&logo=docker&logoColor=39FF14" />
   </a>
-
+  <img src="https://komarev.com/ghpvc/?username=pacchio1&style=for-the-badge&color=39FF14&labelColor=0a0a0a" />
 </div>
+
+---
+
+Full Stack Developer @ **Excentio Present S.r.l.** · Torino, Italy
+
+---
+
+### ⚙️ Stack
+
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=39FF14)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=39FF14)
+![Quarkus](https://img.shields.io/badge/Quarkus-0a0a0a?style=flat-square&logo=quarkus&logoColor=39FF14)
+![Angular](https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=39FF14)
+![Kafka](https://img.shields.io/badge/Kafka-0a0a0a?style=flat-square&logo=apachekafka&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=39FF14)
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt="" />
-</div>
-<br><br><br>
-<!--  <div id="about">
-  <h2> 😀 About me:</h2>
-  <li>👋 Hi, I’m @Pacchio1.<br /></li>
-  <li>👀 I’m interested in databases and full stack developement.<br /></li>
-   <li>📚 I’m currently learning <br /></li>  -->
-  <!-- <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>  -->
- 
-  <!-- <img src=" https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="gmail Badge" />
-    </a></li>
-  <br>
-  ⛓️Aditional links:<br />
-  🤖 Cyber Security ->
-  <ol>
-    <li><a href="https://tryhackme.com/p/Monkey420"><img src="https://tryhackme-badges.s3.amazonaws.com/Monkey420.png"
-          alt="TryHackMe"></a>
-    <li><a>https://play.picoctf.org/users/pacchio1</a><br />
-    </li>
-  </ol>
-    <!--  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li> 
-    <!-- • 💪 leetcode -> <a href="https://leetcode.com/pacchio/">![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark)</a>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=39FF14&title_color=39FF14&text_color=ffffff" />
 </div>
 
-<br><br><br>
-
-<hr />
 <div align="center">
-  <!--
-  <h1>🔥 Some stats 🔥:</h1>  -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical) <br /> 
-
-  
-  <!-- <h2>Consistency</h2>
-
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacchio1&theme=dark&background=141321)
-
-  <br />
-
-  ![Pacchio GitHub stats](https://github-readme-stats.vercel.app/api?username=pacchio1&show_icons=true&theme=radical)
-  <hr>
-  -->
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="monkey keyboard" height="250px"
-    align="center" />
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height="160px" />
 </div>
