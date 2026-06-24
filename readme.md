@@ -24,9 +24,9 @@
   <h2> 😀 About me:</h2>
   <li>👋 Hi, I’m @Pacchio1.<br /></li>
   <li>👀 I’m interested in databases and full stack developement.<br /></li>
-  <li>📚 I’m currently learning springboot and react.<br /></li>
+   <!--  <li>📚 I’m currently learning <br /></li>  -->
   <!-- <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>  -->
-  <li>📫 How to reach me: mail -> <a href="mailto:marco.pacchiotti.2002@gmail.com""> marco.pacchiotti.2002@gmail.com  </a><br />
+ 
   <!-- <img src=" https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
       alt="gmail Badge" />
     </a></li>
