@@ -48,7 +48,7 @@
 <hr />
 <div align="center">
   <!--
-  <h1>🔥 Some stats 🔥:</h1>
+  <h1>🔥 Some stats 🔥:</h1>  -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacchio1&layout=compact&theme=radical) <br /> 
 
   
