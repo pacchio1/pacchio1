@@ -6,18 +6,14 @@
   <a href="https://www.linkedin.com/in/marco-pacchiotti-62182423b/">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
   </a>
-  <a href="mailto:marco.pacchiotti.2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=39FF14" />
-  </a>
   <a href="https://hub.docker.com/u/pacchio1">
     <img src="https://img.shields.io/badge/DockerHub-0a0a0a?style=for-the-badge&logo=docker&logoColor=39FF14" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pacchio1&style=for-the-badge&color=39FF14&labelColor=0a0a0a" />
 </div>
 
----
-
-Full Stack Developer· Torino, Italy
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pacchio1&style=for-the-badge&color=39FF14&labelColor=0a0a0a" />
+</div>
 
 ---
 
