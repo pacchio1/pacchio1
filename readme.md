@@ -17,7 +17,7 @@
 
 ---
 
-Full Stack Developer @ **Excentio Present S.r.l.** · Torino, Italy
+Full Stack Developer· Torino, Italy
 
 ---
 
