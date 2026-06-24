@@ -38,7 +38,7 @@
           alt="TryHackMe"></a>
     <li><a>https://play.picoctf.org/users/pacchio1</a><br />
     </li>
-  </ol>-->
+  </ol>
     <!--  <li>💼 Replit-> https://replit.com/@marcopacchiotti</li>  -->
     <!-- • 💪 leetcode -> <a href="https://leetcode.com/pacchio/">![LeetCode](https://leetcard.jacoblin.cool/Pacchio?theme=dark)</a>-->
 </div>
