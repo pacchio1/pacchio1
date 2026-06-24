@@ -20,11 +20,11 @@
   <img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt="" />
 </div>
 <br><br><br>
-<div id="about">
+<!--  <div id="about">
   <h2> 😀 About me:</h2>
   <li>👋 Hi, I’m @Pacchio1.<br /></li>
   <li>👀 I’m interested in databases and full stack developement.<br /></li>
-   <!--  <li>📚 I’m currently learning <br /></li>  -->
+   <li>📚 I’m currently learning <br /></li>  -->
   <!-- <li>❤️ I’m looking to work on databases or System administrator and/or System integrator.<br/></li>  -->
  
   <!-- <img src=" https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
