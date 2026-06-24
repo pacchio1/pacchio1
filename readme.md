@@ -17,17 +17,14 @@
 
 ---
 
-### ⚙️ Stack
+### ⚙️ I Like:
 
 ![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=39FF14)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=39FF14)
 ![Quarkus](https://img.shields.io/badge/Quarkus-0a0a0a?style=flat-square&logo=quarkus&logoColor=39FF14)
 ![Angular](https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=39FF14)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=39FF14)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=39FF14)
-![Kafka](https://img.shields.io/badge/Kafka-0a0a0a?style=flat-square&logo=apachekafka&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=39FF14)
 
 ---
