@@ -17,7 +17,7 @@
 
 ---
 
-### ⚙️ I Like:
+### My stack:
 
 ![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=39FF14)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=39FF14)
